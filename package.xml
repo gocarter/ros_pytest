@@ -51,7 +51,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>rospy</depend>
   <depend>python3-pytest</depend>
-  <test_depend>python-rospkg</test_depend>
+  <test_depend>python3-rospkg</test_depend>
   <test_depend>python3-rospkg-modules</test_depend>
   <test_depend>python3-pep8</test_depend>
   <!-- <test_depend>python3-pytest-xdist</test_depend> -->
